@@ -1,0 +1,35 @@
+
+body {
+  background-color: purple;
+}
+h1 {
+  color: #FF00FF;
+  text-align: center;
+}
+h2 { color:	#FF69B4;
+	
+	text-align: left;
+	}
+h3 { 
+	text-align: left;
+	color:	#9932CC;
+	border: 1px solid pink;
+	}
+table th , td {
+border: 1px solid black;
+margin: 25px 10px 70px 10px;
+background-color:pink;
+}
+img  {
+	display: block;
+  margin: left;
+  width: 50%;
+ width="104" height="142"
+  border-radius: 8px;
+   opacity: 0.5;
+   
+}
+p {
+	font-family: "Times New Roman", Times, serif;
+	color: 	#D19275 ;
+	}
